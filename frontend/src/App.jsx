@@ -6,6 +6,7 @@ import Projects from './pages/Projects'
 import SuccessStories from './pages/SuccessStories'
 import Community from './pages/Community'
 import Careers from './pages/Careers'
+import Profile from './pages/Profile'
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
             <Route path="/success-stories" element={<SuccessStories />} />
             <Route path="/community" element={<Community />} />
             <Route path="/careers" element={<Careers />} />
+            <Route path="/profile" element={<Profile />} />
           </Routes>
         </main>
         <Footer />

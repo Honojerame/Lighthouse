@@ -10,6 +10,7 @@ function Navbar() {
           <Link to="/success-stories" className="hover:underline">Success Stories</Link>
           <Link to="/community" className="hover:underline">Community</Link>
           <Link to="/careers" className="hover:underline">Careers</Link>
+          <Link to="/profile" className="hover:underline">Profile</Link>
         </div>
       </div>
     </nav>

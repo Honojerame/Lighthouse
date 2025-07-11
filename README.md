@@ -10,4 +10,4 @@ npm install
 npm run dev
 ```
 
-The site includes pages for projects, success stories, community discussions, and career listings.
+The site includes pages for projects, success stories, community discussions, career listings, and student profiles.
